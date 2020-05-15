@@ -505,9 +505,9 @@ def pilih_super():
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  
-         Checkpoint ID Open After 7 Days And More Then 7 Days
+         Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....Aahil Creations....... \033[1;95m :
+: \033[1;91m ....Neel Worlds....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
               \033[1;91m NEEL"""
